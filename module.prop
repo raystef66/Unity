@@ -1,7 +1,9 @@
-id=UnityTemplate
-name=Unity (Un)Installer Template
-version=v5.0
-versionCode=32
-author=ahrion, zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612
+id=Oreo_Adreno530_Drivers
+name=8.x Adreno 530 Drivers Axon7(non-treble)
+version=v1.0
+versionCode=26
+author=raystef66
+description=Auto-Updates latest non-treble Adreno 530 GPU Drivers for Axon7
+support=
+minMagisk=1530
+
