@@ -24,8 +24,8 @@ fi
 # Uncomment and change 'MINAPI' and 'MAXAPI' to the minimum and maximum android version for your mod
 # Uncomment DYNLIB if you want libs installed to vendor for oreo+ and system for anything older
 # Uncomment DEBUG if you want full debug logs (saved to /sdcard in magisk manager and the zip directory in twrp) - note that this can still be set to true by the user by adding 'debug' to the zipname
-#MINAPI=21
-#MAXAPI=25
+MINAPI=26
+MAXAPI=27
 #DYNLIB=true
 #DEBUG=true
 
